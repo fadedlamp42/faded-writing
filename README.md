@@ -8,9 +8,15 @@ Regardless, I hope you find something useful here. PRs to clean up formatting, f
 
 ## Achieving Speed of Thought (SoT)
 
+"Speed of Thought" is an idea I first learned from the `vim` community ([they take it quite seriously](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/)), but I've developed my own interpretation largely on my own so far.
+
+I've never quite put it into words, but so far it breaks into three parallel, never-ending pursuits:
+
 1. Maximizing the Speed of Intent formation (S)
 2. Minimizing the Friction between Intent and Action (F)
 3. Maximizing the Rate of Actions (R)
+
+I do this mostly for fun, but also out of curiosity to learn how far I can push the limits of this concept. In the process, accidentally, I've saved remarkable time in aggregate, both personally and professionally, and I've gotten enough questions over the years to finally assemble what I've learned and applied in one place to ease further development and communicating these ideas to others who have shown (sometimes fervent) interest.
 
 ### Intent formation (S)
 
@@ -117,11 +123,23 @@ I spent years loving Beekeeper, but ultimately it's performance inconsistencies 
 
 #### LLMs and "jetpacking"
 
+Rather than spreading time thinner to get more shallow work done, use the same time to go deep on a smaller surface area, then use that example with an LLM to extend that deepness geometrically (non-linear productivity!)
+
 A great bonus of a text-based life is the smooth interface it creates with LLMs.
 
 - `psql` `\d+` can be copied directly into a prompt to immediately pass relevant context into either a chat interface or Copilot with a comment block
 
 ##### Data - Grafana
+
+- JSON variable transfers
+    - Can also use to write and find TODOs
+- Shared library panels and underlying philosophy (panels exist in isolation and can be combined into more general and specific dashboards depending on **activity** without duplicating effort)
+    - Should usually start with a specific dashboard that includes deep, granular views about a certain topic (e.g. ClickHouse or the API servers)
+    - Panels can then be added to the library and reused in more general dashboards to combine increasingly distant context to make finding correlations *much* easier (see Span explorer)
+    - Panels and variables won't update if you select nothing, so I used a  "custom all value" of " " to allow selecting nothing.
+- The danger of lines and the impression of continuation
+    - Thin bars > lines, but disconnection thresholds can work for multiple series
+    - Be very careful about using cumulative bars, they can hide conflicting or subtle trends
 
 ##### Organizations - Slack
 
@@ -152,5 +170,14 @@ Minimizing path of body, from cutting corners while walking to smaller movements
 
 #### CPU branch prediction as a planning/coordination technique
 
+Working assumptions while waiting to resolve real assumptions:
+- Helps train product sense
+- Doesn’t waste much time
+
 ##### Micro - Your own actions
+
+
 ##### Macro - The actions of others
+
+- Minimize total blocked time (prioritization)
+- Minimize total disappointment (managing expectations)
