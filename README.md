@@ -121,14 +121,6 @@ I spent years loving Beekeeper, but ultimately it's performance inconsistencies 
 
 ###### `k9s`
 
-#### LLMs and "jetpacking"
-
-Rather than spreading time thinner to get more shallow work done, use the same time to go deep on a smaller surface area, then use that example with an LLM to extend that deepness geometrically (non-linear productivity!)
-
-A great bonus of a text-based life is the smooth interface it creates with LLMs.
-
-- `psql` `\d+` can be copied directly into a prompt to immediately pass relevant context into either a chat interface or Copilot with a comment block
-
 ##### Data - Grafana
 
 - JSON variable transfers
@@ -140,6 +132,14 @@ A great bonus of a text-based life is the smooth interface it creates with LLMs.
 - The danger of lines and the impression of continuation
     - Thin bars > lines, but disconnection thresholds can work for multiple series
     - Be very careful about using cumulative bars, they can hide conflicting or subtle trends
+
+#### LLMs and "jetpacking"
+
+Rather than spreading time thinner to get more shallow work done, use the same time to go deep on a smaller surface area, then use that example with an LLM to extend that deepness geometrically (non-linear productivity!)
+
+A great bonus of a text-based life is the smooth interface it creates with LLMs.
+
+- `psql` `\d+` can be copied directly into a prompt to immediately pass relevant context into either a chat interface or Copilot with a comment block
 
 ##### Organizations - Slack
 
