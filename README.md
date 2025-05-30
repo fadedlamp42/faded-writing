@@ -2,6 +2,10 @@
 
 A blog-like archive for ideas I want to remember, develop, and share.
 
+This page will never be done and, especially at first (2025-05-30), most sections will be small stubs or simple headers which I'll fill in over time.
+
+Regardless, I hope you find something useful here. PRs to clean up formatting, fix typos, or add content are welcome, but beware that I'll be quite picky about larger contributions given this is more of a personal archive than a community project.
+
 ## Achieving Speed of Thought (SoT)
 
 1. Maximizing the Speed of Intent formation (S)
