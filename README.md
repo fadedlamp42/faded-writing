@@ -6,6 +6,10 @@ This page will never be done and, especially at first (2025-05-30), most section
 
 Regardless, I hope you find something useful here. PRs to clean up formatting, fix typos, or add content are welcome, but beware that I'll be quite picky about larger contributions given this is more of a personal archive than a community project.
 
+## TODO
+
+[ ] Pre-commit linting for typos and markdown formatting
+
 # Ideas and Philosophy
 
 ## Achieving Speed of Thought (SoT)
