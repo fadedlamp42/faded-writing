@@ -269,7 +269,7 @@ This *does* apply to group DMs especially. If you have a unique combination of p
 
 It’s highly recommended to try every button in the toolbar.
 
-### Useful hotkeys
+###### Useful hotkeys
 
 - CMD + Shift + X → Take a screenshot from any application
 - CMD + C → Copy image to clipboard (so you can CMD + V in Slack, Asana, GitHub, etc.)
