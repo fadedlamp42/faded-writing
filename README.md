@@ -189,6 +189,49 @@ It’s **highly recommended** to use [the desktop client](https://claude.ai/down
 
 The most widely-adopted communication tool for tech organizations is worth mastering.
 
+###### Most helpful features which aren’t obvious right away
+
+- [Use the “Activity” tab and filter by “Unreads”](https://slack.com/help/articles/19693583638803-Triage-notifications-in-the-Activity-tab) to see all new messages in one place instead of jumping between the thread/DM sections. This helps avoid frustrating cases where you didn’t *actually* read something, but Slack thinks you did and removes the 🔴 from it, considering it “read”
+- Instead of trying to remember everything or responding to everything right away, [use the “Later” feature](https://slack.com/help/articles/360042650274-Save-messages-and-files-for-later) to create a backlog and stay more organized about messages you want to reply to
+    - You can “bump” a saved message higher in your “Later” list by un-saving and re-saving it (which will place it back at position #1)
+- [Use sections to organize your channels/DMs](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections), there’s no “right way” to do this; just think about how you like to break down information (e.g. by team, by category (like “bugs”), urgency, etc.) and represent that in your sidebar
+- Use [keyword notifications](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications#keyword-notifications) to get an alert when certain words are said, even if you weren’t mentioned directly. Some useful keywords include names of people or teams, projects, or concepts
+
+###### Keyboard shortcuts ([full list here](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts))
+
+- CMD + K → “Jump to a conversation”
+    - **This is probably the best shortcut in the entire application**
+    - On it’s own, it’ll automatically highlight your unread channels/DMs so you can press “CMD + K → Enter” over and over again to quickly jump to a channel, read, reply, and repeat until there’s nothing left
+    - If you start typing, it’ll match against DMs, channels, apps, and even files which you can jump to by pressing **Enter**
+    - Use the arrow keys if you want to jump to something other than the first, highlighted result before pressing **Enter**
+- CMD + F → “Search in the current conversation”
+    - This opens the search interface which **is extremely powerful**
+    - By default, you’ll notice something like `in:#general` in the search bar which filters results to only the channel you started searching from. **You can remove this for a global search across all channels and messages**
+    - There are a number of [search modifiers](https://slack.com/help/articles/202528808-Search-in-Slack) to choose from, but a few particularly helpful ones
+        - `from:@Person` → When you remember a particular person sent the message you’re thinking of
+        - `with:@Person` → When you don’t remember who sent the message, but you know who was involved
+            - You can use this multiple times, so you can do `with:@Person1 with:@Person2 with:@Person3` to search for messages including a certain combination of people
+        - “specific search term” → Slack tries to be very clever about typos, synonyms, and related words in it’s results, but sometimes you’re looking for a specific phrase or sequence of characters
+            - This is especially useful for things like **table names or function names**
+- CMD + Shift + Enter → Create a snippet
+    - [Snippets](https://slack.com/help/articles/204145658-Create-or-paste-code-snippets-in-Slack) let you send huge blocks of text in a nice, tiny box
+    - If you select the “Type” in the top right, you can even get syntax highlighting!
+        - Try `git diff | pbcopy` to copy a diff and select the “Diff” type, you get green and red lines for additions/removals
+        - Other useful types include “SQL”, “Python”, and “TypeScript”
+- CMD + `[` or `]` → Navigate backwards or forwards in history
+    - If you jump to a channel or message, you can go back to where you just were with CMD + `[`
+    - You can use CMD + `]` to go back to where you just came from
+
+###### DMs are a bad Slack practice
+
+[All of those keystrokes are going to be lost to the wind](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes) in a way that they wouldn't be if it were in a public channel.
+
+Quick clarifications are acceptable of course, but even those results should always be relayed back to the team at large.
+
+This obviously won't apply to true interpersonal communication, casual conversations, sensitive information, etc. but most day-to-day typing should happen in shared channels.
+
+This *does* apply to group DMs especially. If you have a unique combination of people that you're trying to communicate with, the word for that is a **team** and you can figure out a name to describe that concept [then convert the group DM to a private](https://slack.com/help/articles/217555437-Convert-a-group-direct-message-to-a-private-channel) `#team-`[channel](https://slack.com/help/articles/217555437-Convert-a-group-direct-message-to-a-private-channel) (again, this doesn't apply to *interpersonal* group DMs like "the 3 people who happened to come into the office today"; we don't need `#team-3-people-who-came-to-san-mateo-on-03-14` but hopefully my intent here is clear).
+
 ###### Configuration
 
 - Compact mode
