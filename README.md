@@ -529,3 +529,5 @@ The decision of when to use which is nuanced and often changes over time, but it
 ### [Human error is never a root cause / Blameless postmortems](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash?ref=upstract.com)
 
 ### [The 80/20 rule](https://www.investopedia.com/terms/1/80-20-rule.asp) - Related to [the above about micro/macro optimization](https://www.notion.so/1c5f4cd6a8c748b9bceead995f668364?pvs=21)
+
+### [Free as in freedom](https://static.fsf.org/nosvn/faif-2.0.pdf)
