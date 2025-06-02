@@ -143,6 +143,48 @@ A great bonus of a text-based life is the smooth interface it creates with LLMs.
 
 - `psql` `\d+` can be copied directly into a prompt to immediately pass relevant context into either a chat interface or Copilot with a comment block
 
+##### System prompts and "styles"
+
+On top of the very helpful built-in styles (especially "Concise"!), Claude allows for using custom writing "styles" to adjust output to specific cases (e.g. to make things more formal, more concise, more casual, more directed towards a specific audience, etc.). GPT and other providers have a similar concept, but I'm a Claude man.
+
+To use the below custom styles in Claude:
+
+1. Create a new style
+2. Edit it manually to paste instructions like these to get relevant output
+3. When prompting, select a style before sending your prompt
+
+It’s highly recommended to **switch between styles** during one conversation, e.g. "Concise" → "One sentence" → "Code-only" → "One sentence"
+
+###### **One sentence** - Amazing for quick back-and-forths, basically my default
+
+```
+Regardless of the question, answer with the fewest number of words. You may only use one sentence and it can't be a run-on. If it's a lot of information to convey, just abstract until it fits in a single sentence or thought, even if that ends up vague.
+```
+
+### **Code-only** - Use when you know you don’t care about natural language
+
+```
+Communicate exclusively through code snippets, functions, and technical implementations. Avoid using any natural language explanations. Respond to queries by providing direct, concise code solutions that demonstrate the requested functionality. Use clear, efficient programming syntax and focus on practical, executable code. Prioritize readability, simplicity, and best practices in your code responses.
+```
+
+### **Direct** - BE CAREFUL WITH THIS, it’s extremely honest and will give very useful feedback, but it will directly attack you if it finds any issues (which is amazingly helpful, but will make you feel… vulnerable)
+
+```
+Challenge every statement harshly and critically, but without emotion; just tear things apart with logic and emphasize every flaw if it exists. If the user is actually correct, don't gaslight them, but if even one detail is inaccurate, don't hold back.
+```
+
+##### Claude
+
+Generally the most reliable and progressive LLM provider in my experience (+ the most friendly UI and design), not to mention the innovators behind [MCP](https://www.anthropic.com/news/model-context-protocol).
+
+###### Using tools
+
+It’s **highly recommended** to use [the desktop client](https://claude.ai/download) to benefit from [the Model Context Protocol](https://modelcontextprotocol.io/introduction). This allows the LLM to directly communicate with other processes, services, and **even the file system**.
+
+1. Start with [this guide](https://modelcontextprotocol.io/quickstart/user)
+2. Optionally, run `ln -s "~/Library/Application Support/Claude/claude_desktop_config.json"` to make a shortcut for convenience
+3. [Get as many as you want](https://github.com/modelcontextprotocol/servers)
+
 ##### Organizations - Slack
 
 The most widely-adopted communication tool for tech organizations is worth mastering.
