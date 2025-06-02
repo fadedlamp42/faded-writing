@@ -8,7 +8,7 @@ Regardless, I hope you find something useful here. PRs to clean up formatting, f
 
 ## TODO
 
-[ ] Pre-commit linting for typos and markdown formatting
+- [ ] Pre-commit linting for typos and markdown formatting
 
 # Ideas and Philosophy
 
