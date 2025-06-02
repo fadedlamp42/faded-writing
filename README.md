@@ -265,6 +265,17 @@ This *does* apply to group DMs especially. If you have a unique combination of p
 - You can press “CMD + C” to copy the names of all selected tasks
 - You can merge duplicate tasks by using the “…” menu in the top right, selecting “Merge duplicate task”, and pasting in the link to the one you want to keep
 
+###### Screenshots - Flameshot
+
+It’s highly recommended to try every button in the toolbar.
+
+### Useful hotkeys
+
+- CMD + Shift + X → Take a screenshot from any application
+- CMD + C → Copy image to clipboard (so you can CMD + V in Slack, Asana, GitHub, etc.)
+- CMD + S → Save image to disk
+- Escape (while using a tool) → Return to the “not using a tool” state, nice if you want to drag and resize the box to be bigger but you already started drawing
+
 ### Actions (R)
 
 #### Buffering, combos, and morse code
