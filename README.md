@@ -446,7 +446,7 @@ The size of the box depends on how busy your schedule is (30 minutes to 2 hours 
 2. Do it **for a certain amount of time**
 3. Go to 1
 
-This “polling” approach can help you catch yourself if you need to switch priorities/hop onto something more pressing, **especially ****if you’re getting hit by a lot of unplanned tasks.
+This "polling" approach can help you catch yourself if you need to switch priorities/hop onto something more pressing, ***especially*** if you’re getting hit by a lot of unplanned tasks.
 
 ## Sprints, kanban, planning overhead, and planning error
 
