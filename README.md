@@ -238,10 +238,6 @@ This *does* apply to group DMs especially. If you have a unique combination of p
 - Groups
 - Muting channels and ignoring replies (see S)
 
-###### Hotkeys
-
-- CMD + Enter -> Snippet
-
 ### Actions (R)
 
 #### Buffering, combos, and morse code
