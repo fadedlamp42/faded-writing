@@ -531,3 +531,5 @@ The decision of when to use which is nuanced and often changes over time, but it
 ### [The 80/20 rule](https://www.investopedia.com/terms/1/80-20-rule.asp) - Related to [the above about micro/macro optimization](https://www.notion.so/1c5f4cd6a8c748b9bceead995f668364?pvs=21)
 
 ### [Free as in freedom](https://static.fsf.org/nosvn/faif-2.0.pdf)
+
+### [The Pyramid Principle in writing](https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/)
