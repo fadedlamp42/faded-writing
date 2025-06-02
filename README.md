@@ -240,7 +240,7 @@ This *does* apply to group DMs especially. If you have a unique combination of p
 
 ###### Projects, planning, and tracking - Asana
 
-### Terms and concepts
+###### Terms and concepts
 
 - **Projects** have **Sections**
 - **Sections** have **Tasks**
@@ -257,7 +257,7 @@ This *does* apply to group DMs especially. If you have a unique combination of p
         - Grouping
         - Which sections are expanded or collapsed
 
-### Tips and tricks
+###### Tips and tricks
 
 - It’s **highly recommended** to [configure email notifications](https://help.asana.com/s/article/email-notifications?language=en_US) for comments so they don’t get buried.
     - Don’t worry about all of the other “reports” and aggregate summary emails they offer, comments are the most important update to receive
