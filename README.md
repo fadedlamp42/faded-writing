@@ -238,6 +238,33 @@ This *does* apply to group DMs especially. If you have a unique combination of p
 - Groups
 - Muting channels and ignoring replies (see S)
 
+###### Projects, planning, and tracking - Asana
+
+### Terms and concepts
+
+- **Projects** have **Sections**
+- **Sections** have **Tasks**
+- **Tasks** are completed by the **Assignee**
+- All task **Collaborators** (little face bubbles on the bottom) receive updates
+- You can view the same **Project** through multiple **Tabs** that act as views
+    - Think of this as different windows into the same house
+    - Each tab has a **Type** which affects its overall layout:
+        - **List** tabs look like… well… lists. These are the most efficient for screen real estate
+        - **Board** tabs look like traditional kanban tools and may be more comfortable for people used to tools like Trello or GitHub Projects. They’re much less space efficient, but they display thumbnails which can be helpful for more visual task sets like design boards
+    - Tabs save *almost everything* about the current state:
+        - Sorting
+        - Filters
+        - Grouping
+        - Which sections are expanded or collapsed
+
+### Tips and tricks
+
+- It’s **highly recommended** to [configure email notifications](https://help.asana.com/s/article/email-notifications?language=en_US) for comments so they don’t get buried.
+    - Don’t worry about all of the other “reports” and aggregate summary emails they offer, comments are the most important update to receive
+- To select a big list of tasks, click on the first one then hold shift and click on the last one
+- You can press “CMD + C” to copy the names of all selected tasks
+- You can merge duplicate tasks by using the “…” menu in the top right, selecting “Merge duplicate task”, and pasting in the link to the one you want to keep
+
 ### Actions (R)
 
 #### Buffering, combos, and morse code
