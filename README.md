@@ -545,3 +545,4 @@ A section for under-baked, novel ideas that I want to develop and eventually wri
         - "uhh" in terms of execution with no plan = random, discontinuous work and task patterns
 - Local vs. global maximums and the role of random exploration
 - Declarative thought (desired vs real)
+![PXL_20250531_010954842](https://github.com/user-attachments/assets/dc1308c0-34b4-4a88-a71d-ff85ede2b3d9)
