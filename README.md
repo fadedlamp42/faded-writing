@@ -535,3 +535,11 @@ The decision of when to use which is nuanced and often changes over time, but it
 ### [The Pyramid Principle in writing](https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/)
 
 ### [Cattle vs. pets](https://www.hava.io/blog/cattle-vs-pets-devops-explained)
+
+# Free thoughts
+
+A section for under-baked, novel ideas that I want to develop and eventually write about here:
+
+- It's better to have a plan with no capacity than capacity with no plan
+    - Similar to how rate of thought should always outpace rate of speech; the buffering action of "uhhh" applies here on a macro level too
+        - "uhh" in terms of execution with no plan = random, discontinuous work and task patterns
