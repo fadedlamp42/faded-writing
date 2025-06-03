@@ -280,6 +280,8 @@ It’s highly recommended to try every button in the toolbar.
 - CMD + S → Save image to disk
 - Escape (while using a tool) → Return to the “not using a tool” state, nice if you want to drag and resize the box to be bigger but you already started drawing
 
+###### Drawing - Excalidraw (ExcalidrawZ on Mac)
+
 ### Actions (R)
 
 #### Buffering, combos, and morse code
