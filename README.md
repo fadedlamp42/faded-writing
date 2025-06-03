@@ -543,3 +543,5 @@ A section for under-baked, novel ideas that I want to develop and eventually wri
 - It's better to have a plan with no capacity than capacity with no plan
     - Similar to how rate of thought should always outpace rate of speech; the buffering action of "uhhh" applies here on a macro level too
         - "uhh" in terms of execution with no plan = random, discontinuous work and task patterns
+- Local vs. global maximums and the role of random exploration
+- Declarative thought (desired vs real)
