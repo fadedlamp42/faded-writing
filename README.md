@@ -533,3 +533,5 @@ The decision of when to use which is nuanced and often changes over time, but it
 ### [Free as in freedom](https://static.fsf.org/nosvn/faif-2.0.pdf)
 
 ### [The Pyramid Principle in writing](https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/)
+
+### [Cattle vs. pets](https://www.hava.io/blog/cattle-vs-pets-devops-explained)
