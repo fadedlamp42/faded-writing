@@ -187,7 +187,7 @@ It’s **highly recommended** to use [the desktop client](https://claude.ai/down
 
 1. Start with [this guide](https://modelcontextprotocol.io/quickstart/user)
 2. Optionally, run `ln -s "~/Library/Application Support/Claude/claude_desktop_config.json"` to make a shortcut for convenience
-3. [Get as many as you want](https://github.com/modelcontextprotocol/servers)
+3. [Get as many as you want](https://github.com/modelcontextprotocol/servers), but the [filesystem server](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) is ***absolutely essential*** to getting the most out of Claude.
 
 ##### Organizations - Slack
 
