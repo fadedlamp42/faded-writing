@@ -282,6 +282,15 @@ It’s highly recommended to try every button in the toolbar.
 
 ###### Drawing - Excalidraw (ExcalidrawZ on Mac)
 
+1. Buy [this tablet](https://www.amazon.com/dp/B077P6BQP7?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) or something similar, but that one is huge and good value
+    - [Here's where you download the XP Pen app](https://www.xp-pen.com/download/artist-22-plus.html) which you'll need to configure it
+2. Download [this app on Mac](https://apps.apple.com/us/app/excalidrawz/id6636493997)
+    - You can also [use the web app](https://excalidraw.com/), but native performance out-of-browser is better
+        - All code is [open source](https://github.com/excalidraw/excalidraw)
+    - The only limitation is that you only get a single "Collaboration room" to draw together with others at once, but that's totally enough.
+3. Map the buttons on the left using the driver from 1-8 (top=1, bottom=8) so you can switch between tools quickly in Excalidraw
+4. Use the buttons on the pen itself to right and double-left click to get through menus
+
 ### Actions (R)
 
 #### Buffering, combos, and morse code
