@@ -127,7 +127,7 @@ I spent years loving Beekeeper, but ultimately it's performance inconsistencies 
 
 ###### `k9s`
 
-##### Data - Grafana
+##### Monitoring - Grafana
 
 - JSON variable transfers
     - Can also use to write and find TODOs
@@ -138,6 +138,10 @@ I spent years loving Beekeeper, but ultimately it's performance inconsistencies 
 - The danger of lines and the impression of continuation
     - Thin bars > lines, but disconnection thresholds can work for multiple series
     - Be very careful about using cumulative bars, they can hide conflicting or subtle trends
+
+##### Shared data - Google Sheets
+
+- Filtered views are wonderful for collaborative work, multiple filters concurrently
 
 #### LLMs and "jetpacking"
 
