@@ -547,6 +547,8 @@ The decision of when to use which is nuanced and often changes over time, but it
 
 ### [Cattle vs. pets](https://www.hava.io/blog/cattle-vs-pets-devops-explained)
 
+### [Treat developer experience (DX) like user experience (UX)](https://medium.com/better-practices/design-apis-like-you-design-user-experience-a7adeb2ee90f)
+
 # Free thoughts
 
 A section for under-baked, novel ideas that I want to develop and eventually write about here:
