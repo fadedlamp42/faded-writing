@@ -563,3 +563,9 @@ A section for under-baked, novel ideas that I want to develop and eventually wri
 - Local vs. global maximums and the role of random exploration
 - Declarative thought (desired vs real)
 ![PXL_20250531_010954842](https://github.com/user-attachments/assets/dc1308c0-34b4-4a88-a71d-ff85ede2b3d9)
+
+You can't do everything, choose what you should do
+1. Work interruptably
+2. Do just the most important part of each important thing, then halt
+
+Metacognition means changing the definition of fun to align with winning without sacrificing the self, because identity is ephemeral and the momentary self is in a constant state of death; only the continuous sense of self is real and that's independent of the "subject" in subjectivity
