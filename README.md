@@ -151,6 +151,8 @@ A great bonus of a text-based life is the smooth interface it creates with LLMs.
 
 - `psql` `\d+` can be copied directly into a prompt to immediately pass relevant context into either a chat interface or Copilot with a comment block
 
+See [Y Combinator prompting](summaries/y-combinator-prompting.md) for a good foundation.
+
 ##### System prompts and "styles"
 
 On top of the very helpful built-in styles (especially "Concise"!), Claude allows for using custom writing "styles" to adjust output to specific cases (e.g. to make things more formal, more concise, more casual, more directed towards a specific audience, etc.). GPT and other providers have a similar concept, but I'm a Claude man.
