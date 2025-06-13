@@ -248,7 +248,7 @@ This *does* apply to group DMs especially. If you have a unique combination of p
 - Groups
 - Muting channels and ignoring replies (see S)
 
-###### Projects, planning, and tracking - Asana
+##### Projects, planning, and tracking - Asana
 
 ###### Terms and concepts
 
@@ -275,7 +275,7 @@ This *does* apply to group DMs especially. If you have a unique combination of p
 - You can press “CMD + C” to copy the names of all selected tasks
 - You can merge duplicate tasks by using the “…” menu in the top right, selecting “Merge duplicate task”, and pasting in the link to the one you want to keep
 
-###### Screenshots - Flameshot
+##### Screenshots - Flameshot
 
 It’s highly recommended to try every button in the toolbar.
 
@@ -286,7 +286,7 @@ It’s highly recommended to try every button in the toolbar.
 - CMD + S → Save image to disk
 - Escape (while using a tool) → Return to the “not using a tool” state, nice if you want to drag and resize the box to be bigger but you already started drawing
 
-###### Drawing - Excalidraw (ExcalidrawZ on Mac)
+##### Drawing - Excalidraw (ExcalidrawZ on Mac)
 
 1. Buy [this tablet](https://www.amazon.com/dp/B077P6BQP7?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) or something similar, but that one is huge and good value
     - [Here's where you download the XP Pen app](https://www.xp-pen.com/download/artist-22-plus.html) which you'll need to configure it
@@ -296,6 +296,14 @@ It’s highly recommended to try every button in the toolbar.
     - The only limitation is that you only get a single "Collaboration room" to draw together with others at once, but that's totally enough.
 3. Map the buttons on the left using the driver from 1-8 (top=1, bottom=8) so you can switch between tools quickly in Excalidraw
 4. Use the buttons on the pen itself to right and double-left click to get through menus
+
+###### Helpful tools which aren't obvious
+
+- Lazer pointer with K
+
+###### Libraries and reusable components
+
+There are [libraries of reusable components](https://libraries.excalidraw.com/?theme=light&sort=downloadsTotal#gabrielamacakova-basic-ux-wireframing-elements).
 
 ### Actions (R)
 
