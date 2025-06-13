@@ -303,7 +303,7 @@ It’s highly recommended to try every button in the toolbar.
 
 ###### Libraries and reusable components
 
-There are [libraries of reusable components](https://libraries.excalidraw.com/?theme=light&sort=downloadsTotal#gabrielamacakova-basic-ux-wireframing-elements).
+There are [libraries of reusable components](https://libraries.excalidraw.com/?theme=light&sort=default), like this one for [wireframing](https://libraries.excalidraw.com/?theme=light&sort=downloadsTotal#gabrielamacakova-basic-ux-wireframing-elements), which can be used to quickly build mockups and wireframes.
 
 ### Actions (R)
 
