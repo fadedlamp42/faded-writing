@@ -579,3 +579,8 @@ You can't do everything, choose what you should do
 2. Do just the most important part of each important thing, then halt
 
 Metacognition means changing the definition of fun to align with winning without sacrificing the self, because identity is ephemeral and the momentary self is in a constant state of death; only the continuous sense of self is real and that's independent of the "subject" in subjectivity
+
+Change your perception of growth to knowledge instead of results
+- Time - linear
+- Knowledge - wiggly
+- Results - discrete
