@@ -86,6 +86,8 @@ bind -m vi-insert  -x '"\C-l": clear'
 
 ###### `tmux` - One terminal -> many shells
 ###### `htop` (and derivaties like `nvtop` and `k9s`) - Real-time monitoring and intervention
+###### `fd` - Better `find`
+###### `rg` - Better `grep`
 
 ##### macOS
 
@@ -548,7 +550,7 @@ The decision of when to use which is nuanced and often changes over time, but it
 
 > Sometimes the spaghetti can fly… but at the end of the day it should land in a strainer
 - [Church of the Flying Spaghetti Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
-> 
+>
 </aside>
 
 ### [Human error is never a root cause / Blameless postmortems](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash?ref=upstract.com)
