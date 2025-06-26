@@ -597,3 +597,5 @@ Change your perception of growth to knowledge instead of results
 - Time - linear
 - Knowledge - wiggly
 - Results - discrete
+
+https://www.debugbear.com/json-size-analyzer
