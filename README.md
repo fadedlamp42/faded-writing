@@ -599,3 +599,5 @@ Change your perception of growth to knowledge instead of results
 - Results - discrete
 
 https://www.debugbear.com/json-size-analyzer
+
+Minimize feedback loops to maximize tactile association.
