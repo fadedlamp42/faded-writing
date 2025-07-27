@@ -601,4 +601,6 @@ Change your perception of growth to knowledge instead of results
 
 https://www.debugbear.com/json-size-analyzer
 
-Minimize feedback loops to maximize tactile association.
+Minimize feedback loops to maximize tactile association (see 400ms rule from Laws of UI)
+
+Playing with scarcity = fear = tension = poor performance, abundance = relaxation = better performance and abundance can be found by playing "for fun" and the "always next time" mindset
