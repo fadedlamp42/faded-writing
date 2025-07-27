@@ -604,3 +604,4 @@ https://www.debugbear.com/json-size-analyzer
 Minimize feedback loops to maximize tactile association (see 400ms rule from Laws of UI)
 
 Playing with scarcity = fear = tension = poor performance, abundance = relaxation = better performance and abundance can be found by playing "for fun" and the "always next time" mindset
+I learn about life while playing games because life is just another game, the universe is playful in nature
