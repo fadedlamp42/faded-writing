@@ -309,6 +309,7 @@ It’s highly recommended to try every button in the toolbar.
     - The only limitation is that you only get a single "Collaboration room" to draw together with others at once, but that's totally enough.
 3. Map the buttons on the left using the driver from 1-8 (top=1, bottom=8) so you can switch between tools quickly in Excalidraw
 4. Use the buttons on the pen itself to right and double-left click to get through menus
+5. The smaller area I sometimes use is X=301, Y=206, W=297, H=174
 
 ###### Helpful tools which aren't obvious
 
