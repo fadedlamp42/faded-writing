@@ -605,3 +605,4 @@ Minimize feedback loops to maximize tactile association (see 400ms rule from Law
 
 Playing with scarcity = fear = tension = poor performance, abundance = relaxation = better performance and abundance can be found by playing "for fun" and the "always next time" mindset
 I learn about life while playing games because life is just another game, the universe is playful in nature
+Because time is the ultimate scarce resource (because life, the boundary of our time, is finite), more time invested in something makes it more scarce (long relationships, end of a world record speedrun, end of a good performance) -> tension
